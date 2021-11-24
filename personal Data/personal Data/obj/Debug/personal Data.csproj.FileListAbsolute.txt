@@ -1,0 +1,15 @@
+E:\capgeminini\personal Data\personal Data\bin\Debug\personal Data.exe.config
+E:\capgeminini\personal Data\personal Data\bin\Debug\personal Data.exe
+E:\capgeminini\personal Data\personal Data\bin\Debug\personal Data.pdb
+E:\capgeminini\personal Data\personal Data\obj\Debug\personal Data.csproj.AssemblyReference.cache
+E:\capgeminini\personal Data\personal Data\obj\Debug\MainWindow.g.cs
+E:\capgeminini\personal Data\personal Data\obj\Debug\App.g.cs
+E:\capgeminini\personal Data\personal Data\obj\Debug\personal Data_MarkupCompile.cache
+E:\capgeminini\personal Data\personal Data\obj\Debug\personal Data_MarkupCompile.lref
+E:\capgeminini\personal Data\personal Data\obj\Debug\MainWindow.baml
+E:\capgeminini\personal Data\personal Data\obj\Debug\personal Data.g.resources
+E:\capgeminini\personal Data\personal Data\obj\Debug\personal_Data.Properties.Resources.resources
+E:\capgeminini\personal Data\personal Data\obj\Debug\personal Data.csproj.GenerateResource.cache
+E:\capgeminini\personal Data\personal Data\obj\Debug\personal Data.csproj.CoreCompileInputs.cache
+E:\capgeminini\personal Data\personal Data\obj\Debug\personal Data.exe
+E:\capgeminini\personal Data\personal Data\obj\Debug\personal Data.pdb
